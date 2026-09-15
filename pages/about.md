@@ -14,6 +14,8 @@ credits: true
 
 ## About the Collection
 
+This page was created using instructions and sample files from the CollectionBuilder-GH Walkthrough. The purpose of the walkthrough was to learn how to create and edit a digital collection using CollectionBuilder for future projects in my masters of library science program at North Carolina Central University.  
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
